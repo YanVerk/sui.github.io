@@ -1,0 +1,36 @@
+nav h3 {
+	color: #00ff99;
+	margin-left: 22px;
+}
+nav {
+  margin-bottom: 20px;
+  width: 500px;
+  height: 180px;
+  background-color: #008080;
+  border: 10px groove black;
+}
+nav a {
+	color: #ffffff;
+}
+a {
+	color: orange;
+	text-decoration: none;
+}
+body {
+	font-family: "Arial";
+	background-image: url(bablkvas/586005836-doge-meme-wallpaper.jpg);
+	font-size: 130%;
+}
+aside a {
+	margin-right: 500px;
+	float: right;
+}
+footer {
+	margin-top: 100px;
+	margin-left: 30px;
+	border: 10px inset black;
+	background: #008080;
+	width: 500px;
+}
+.gay {
+	text-decoration: overline;
